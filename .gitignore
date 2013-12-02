@@ -27,3 +27,7 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+
+#忽略所有 .bak结尾的文件
+*.bak
